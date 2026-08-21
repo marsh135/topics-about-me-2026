@@ -1,4 +1,3 @@
-Who Are You? — GitHub Edition
 
 You've already survived at least one computer science class. Before we get into the real work this year, I want to know a little more about who you are now, what you remember, what you're interested in, and what you want to learn.
 
